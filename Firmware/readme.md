@@ -1,9 +1,5 @@
 # PIVOT 12
 
-![pivot12](imgur.com image replace me!)
-
-My personal macropad with 10 MX switches and two rotary encoders. Aimed for productivity with focus on the dials.
-
 * Keyboard Maintainer: [bunnypranav](https://github.com/bunnypranav)
 * Hardware Supported: Seeed XIAO RP2040
 
