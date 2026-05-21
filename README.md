@@ -1,4 +1,5 @@
 # PIVOT 12
+![](images/final.png)
 ![](images/image3.png)
 PIVOT 12 is a macropad with 10 MX switches and two rotary encoders and uses QMK firmware. It is aimed for productivity with a huge focus on the two dials. The name "PIVOT" signifies the rotary encoders as "pivotal" control elements (*pun intended*). The "12" in the name refers to the total number of inputs (10 switches + 2 rotary encoders) on the macropad.
 

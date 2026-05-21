@@ -1,0 +1,94 @@
+{
+  "name": "pivot12",
+  "vendorProductId": 1112539137,
+  "macros": [
+    "{KC_LALT,KC_TAB}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    [
+      "C(KC_W)",
+      "KC_NO",
+      "KC_NO",
+      "TG(2)",
+      "C(KC_T)",
+      "KC_NO",
+      "KC_NO",
+      "TG(1)",
+      "C(S(KC_T))",
+      "KC_NO",
+      "KC_NO",
+      "KC_F15"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_TRNS",
+      "KC_NO",
+      "KC_NO",
+      "KC_LALT",
+      "KC_LALT"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_TRNS",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_TRNS",
+      "KC_NO",
+      "KC_NO",
+      "KC_TRNS"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_TRNS",
+      "KC_NO",
+      "KC_NO",
+      "KC_TRNS"
+    ]
+  ],
+  "encoders": [
+    [
+      ["C(S(KC_TAB))", "C(KC_TAB)"],
+      ["KC_NO", "KC_NO"],
+      ["KC_NO", "KC_NO"],
+      ["KC_NO", "KC_NO"]
+    ],
+    [
+      ["KC_VOLD", "KC_VOLU"],
+      ["S(KC_TAB)", "KC_TAB"],
+      ["KC_NO", "KC_NO"],
+      ["KC_NO", "KC_NO"]
+    ]
+  ]
+}

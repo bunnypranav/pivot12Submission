@@ -1,7 +1,12 @@
-# PIVOT 12
+# pivot12
 
-* Keyboard Maintainer: [bunnypranav](https://github.com/bunnypranav)
-* Hardware Supported: Seeed XIAO RP2040
+![pivot12](imgur.com image replace me!)
+
+*A short description of the keyboard/project*
+
+* Keyboard Maintainer: [Bunny Pranav](https://github.com/bunnypranav)
+* Hardware Supported: *The PCBs, controllers supported*
+* Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
